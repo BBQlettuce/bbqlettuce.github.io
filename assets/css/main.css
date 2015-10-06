@@ -1574,7 +1574,8 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			/*color: #4acaa8 !important;*/
+			color: #244f89 !important;
 		}
 
 	strong, b {
