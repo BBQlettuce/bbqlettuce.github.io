@@ -1726,7 +1726,8 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		/*color: #4acaa8;*/
+		color: #244f89;
 		font-size: 3.5em;
 	}
 
@@ -1789,7 +1790,8 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #4acaa8;
+			/*border-color: #4acaa8;*/
+			border-color: #244f89;
 		}
 
 	.select-wrapper {
@@ -1899,7 +1901,8 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #4acaa8;
+			/*border-color: #4acaa8;*/
+			border-color: #244f89;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2387,7 +2390,8 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			/*background-color: #4acaa8;*/
+			background-color: #244f89;
 			color: #ffffff !important;
 		}
 
@@ -2395,7 +2399,8 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				/*background-color: #5ed0b1;*/
+				background-color: #2f6fc6;
 			}
 
 			input[type="submit"].special:active,
@@ -2457,8 +2462,10 @@
 /* Header */
 
 	#header {
-		background: #4acaa8;
-		color: #d1f1e9;
+		/*background: #4acaa8;*/
+		background: #244f89;
+		/*color: #d1f1e9;*/
+		color: #cbdcec;
 		height: 100%;
 		position: fixed;
 		text-align: center;
@@ -2480,7 +2487,8 @@
 		}
 
 		#header a {
-			color: #d1f1e9;
+			/*color: #d1f1e9;*/
+			color: #cbdcec;
 		}
 
 			#header a:hover {
@@ -2503,7 +2511,8 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				/*color: #d1f1e9;*/
+				color: #cbdcec;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2521,7 +2530,8 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					/*color: #b6e9dc;*/
+					color: #cbdcec;
 				}
 
 		#header > nav ul {
@@ -2531,7 +2541,8 @@
 		}
 
 			#header > nav ul li {
-				border-top: solid 2px #5ccfb0;
+				/*border-top: solid 2px #5ccfb0;*/
+				border-top: solid 2px #14335d;
 				display: block;
 				padding: 0;
 			}
@@ -2550,7 +2561,7 @@
 
 					#header > nav ul li a.active {
 						background: #fff;
-						color: #4acaa8 !important;
+						color: #244f89 !important;
 					}
 
 				#header > nav ul li:first-child {
