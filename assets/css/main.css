@@ -2117,6 +2117,10 @@
 					width: 2.5em;
 				}
 
+				ul.feature-icons a {
+					border: 0;
+				}
+				
 		ul.icons {
 			cursor: default;
 			list-style: none;
