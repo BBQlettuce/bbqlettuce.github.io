@@ -2120,7 +2120,7 @@
 				ul.feature-icons a {
 					border: 0;
 				}
-				
+
 		ul.icons {
 			cursor: default;
 			list-style: none;
@@ -2596,7 +2596,7 @@
 
 /* One */
 
-	#one:before {
+	#about:before {
 		background-image: url("../../images/banner-mountain.jpeg");
 		background-position: center;
 		background-repeat: no-repeat;
@@ -2781,7 +2781,7 @@
 
 		/* One */
 
-			#one:before {
+			#about:before {
 				height: 10em;
 			}
 
@@ -2979,7 +2979,7 @@
 
 		/* One */
 
-			#one:before {
+			#about:before {
 				height: 7em;
 			}
 
