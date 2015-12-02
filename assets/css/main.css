@@ -3085,3 +3085,13 @@
 			}
 
 	}
+
+/* my customs */
+.fade-icon {
+	opacity: .5;
+	transition: all 1.5s ease;
+}
+
+.fade-icon:hover {
+	opacity: 1;
+}
